@@ -1,0 +1,17 @@
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Api.deps.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Api.runtimeconfig.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Api.runtimeconfig.dev.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Api.dll
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Api.pdb
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Common.dll
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\bin\Debug\netcoreapp2.2\Dist.Common.pdb
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.csprojAssemblyReference.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.RazorAssemblyInfo.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.RazorAssemblyInfo.cs
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.AssemblyInfoInputs.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.AssemblyInfo.cs
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.csproj.CopyComplete
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.dll
+C:\Users\Hudson\source\repos\Dist\src\Dist.Api\obj\Debug\netcoreapp2.2\Dist.Api.pdb

@@ -1,0 +1,9 @@
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\bin\Debug\netstandard2.0\Dist.Common.deps.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\bin\Debug\netstandard2.0\Dist.Common.dll
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\bin\Debug\netstandard2.0\Dist.Common.pdb
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.csprojAssemblyReference.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.AssemblyInfoInputs.cache
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.AssemblyInfo.cs
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.dll
+C:\Users\Hudson\source\repos\Dist\src\Dist.Common\obj\Debug\netstandard2.0\Dist.Common.pdb
