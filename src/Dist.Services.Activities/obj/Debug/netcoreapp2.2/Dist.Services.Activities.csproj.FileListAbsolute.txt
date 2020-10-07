@@ -1,3 +1,6 @@
+C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Dist.Services.Activities.deps.json
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Dist.Services.Activities.runtimeconfig.json
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Dist.Services.Activities.runtimeconfig.dev.json
@@ -6,7 +9,6 @@ C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcore
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Dist.Common.dll
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\bin\Debug\netcoreapp2.2\Dist.Common.pdb
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\obj\Debug\netcoreapp2.2\Dist.Services.Activities.csprojAssemblyReference.cache
-C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\obj\Debug\netcoreapp2.2\Dist.Services.Activities.csproj.CoreCompileInputs.cache
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\obj\Debug\netcoreapp2.2\Dist.Services.Activities.RazorAssemblyInfo.cache
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\obj\Debug\netcoreapp2.2\Dist.Services.Activities.RazorAssemblyInfo.cs
 C:\Users\Hudson\source\repos\Dist\src\Dist.Services.Activities\obj\Debug\netcoreapp2.2\Dist.Services.Activities.AssemblyInfoInputs.cache
