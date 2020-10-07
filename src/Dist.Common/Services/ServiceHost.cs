@@ -1,5 +1,6 @@
 ﻿using Dist.Common.Commands;
 using Dist.Common.Events;
+using Dist.Common.RabbitMq;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -23,7 +24,7 @@ namespace Dist.Common.Services
             _webHost.Run();
         }
 
-        public static HostBuilder Create<TStart>(string[] args) where TStartup : class
+        public static HostBuilder Create<TStartup>(string[] args) where TStartup : class
         {
             Console.Title = typeof(TStartup).Namespace;
             var config = new ConfigurationBuilder()
@@ -34,6 +35,8 @@ namespace Dist.Common.Services
             var webHostBuilder = WebHost.CreateDefaultBuilder(args)
                 .UseConfiguration(config)
                 .UseStartup<TStartup>();
+
+            return new HostBuilder(webHostBuilder.Build());
         }
     }
 
@@ -83,7 +86,7 @@ namespace Dist.Common.Services
                 .GetService(typeof(ICommandHandler<TCommand>));
             _bus.WithCommandHandlerAsync(handler);
 
-            return new this;
+            return this;
         }
 
         public BusBuilder SubscribeToEvent<TEvent>() where TEvent : IEvent
